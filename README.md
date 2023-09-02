@@ -1,1 +1,3 @@
-"# jsdocument-all-in-one-example" 
+# JSDocument All-In-One Example
+
+Example, All-In-One.
